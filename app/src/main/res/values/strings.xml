@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProjectUAS_Kelompok6</string>
+    <string name="buku">Book Data</string>
+    <string name="order">Order Data</string>
+    <string name="history">History Data</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

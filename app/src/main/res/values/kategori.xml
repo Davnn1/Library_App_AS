@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="kategori" >
+        <item></item>
+        <item>Novel</item>
+        <item>Biografi</item>
+        <item>Ensikopedia</item>
+        <item>Komik</item>
+        <item>Kamus</item>
+    </string-array>
+
+</resources>

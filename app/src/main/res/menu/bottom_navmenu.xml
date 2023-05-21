@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/books"
+        android:icon="@drawable/ic_menu_book_24"
+        android:title="Books"/>
+    <item
+        android:id="@+id/order"
+        android:icon="@drawable/ic_reorder_24"
+        android:title="Order"/>
+    <item
+        android:id="@+id/history"
+        android:icon="@drawable/ic_baseline_history_24"
+        android:title="History" />
+    <item
+        android:id="@+id/profil"
+        android:icon="@drawable/ic_account_circle_24"
+        android:title="Profile" />
+
+</menu>
