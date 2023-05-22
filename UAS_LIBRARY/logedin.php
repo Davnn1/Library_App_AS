@@ -1,7 +1,8 @@
 <?php
     include 'koneksi.php';
 
-    $result = mysqli_query($conn, "SELECT * FROM login");
+    $result = mysqli_query($conn, "SELECT * FROM `login`  
+    ORDER BY `login`.`login_timestamp` DESC");
     if(mysqli_num_rows($result) > 0) {
         $items = array();
         while($row = mysqli_fetch_object($result)){
