@@ -89,7 +89,6 @@ public class ActProfil extends Fragment {
         startActivity(intent);
     }
 
-
     public void keluar(){
         AlertDialog.Builder builder = new AlertDialog.Builder(getActivity());
         builder.setTitle("CONFIRMATION");
