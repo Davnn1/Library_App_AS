@@ -5,7 +5,7 @@ including creating, reading, updating, and deleting books from the library colle
 
 <h1 align="center">
   <br>
-  <img src="https://github.com/akashnimare/foco/blob/master/app/img/foco.png" alt="Foco" width="160">
+  <img src="https://github.com/Davnn1/Library_App_AS/blob/master/app/src/main/res/drawable/logo.png" alt="Foco" width="160">
 </h1>
 
 # Key Feature
