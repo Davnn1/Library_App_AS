@@ -35,7 +35,7 @@ Android Studio:
 - Run the APP on the Pixel 6 API 26 for the best experience.
 
 # License
-MIT  © [Davin]
+MIT  © Davin
 
 ## Contributing
 
